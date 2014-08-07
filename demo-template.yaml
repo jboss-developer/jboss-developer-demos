@@ -1,0 +1,18 @@
+title: Unicorns! # The title of the demo, required
+technologies: # Any technologies the demo shows off, optional
+  - Java EE
+  - Camel
+  - Drools
+summary: This demo shows you how to _simply_ use Java EE, Camel and Drools to turn ponies and rainbows in to unicorns. # A short (1 paragraph) summary of your demo. You can use markdown here, required
+github_repo_url: http://github.com/pmuir/unicorns # The URL of the project on github, required
+release: https://github.com/pmuir/unicorns/releases/tag/1.0.0 # The URL to the release, defaults to the latest release on github (if github_repo_url specified). Used to locate download, publish date and browse URL
+content: https://raw.githubusercontent.com/pmuir/unicorns/master/Unicorns.md # The URL to the raw markdown file to render as the demo page, defaults to the README.md in the root of the project (if github_repo_url specified), required
+level: Advanced # The level of user the demo is targeting, defaults to beginner
+thumbnail: http://bingebehavior.com/wp-content/uploads/2013/07/Unicorn.jpg # An image to display alongside the demo in search results, optional
+product: eap # The target product, optional. If omitted, won't show up in product developer materials
+product_versions: # The versions of the product the demo targets, currently unused, optional
+  - 6.1
+  - 6.2
+author: Pete Muir # The author of the demo, defaults to Unknown
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+
