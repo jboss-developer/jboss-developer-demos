@@ -11,7 +11,7 @@ For every demo, we need to know certain pieces of metadata. We recommend followi
 Using a github repository
 -------------------------
 
-If you are using a github repository, we can pull quite a bit of the metadata from the repository. There is a template repository, including a `README.md` with extensive instructions on how to create a great `README.md`, at <https://github.com/pmuir/jboss-developer-demo-example>.
+If you are using a github repository, we can pull quite a bit of the metadata from the repository. There is a template repository, including a `README.md` with extensive instructions on how to create a great `README.md`, at <https://github.com/jboss-developer/jboss-developer-demo-template>.
 
 By default we will:
 
