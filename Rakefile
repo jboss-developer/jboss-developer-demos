@@ -9,5 +9,6 @@ task :default do
     :output_dir => '_site/demos'})
   site = OpenStruct.new({:dir => '_site', :pages => []});
   demo.execute(site)
+  puts "all ok!"
 end
 
