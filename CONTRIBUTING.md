@@ -3,10 +3,10 @@ Contributing a demo to JBoss Developer
 
 For every demo, we need to know certain pieces of metadata. We recommend following the easiest approach:
 
-# Host the demo on github
-# Add a `README.md` describing how to use the demo
-# Adding some simple metadata to the README
-# Send a pull request, adding the demo to the list
+1. Host the demo on github
+2. Add a `README.md` describing how to use the demo
+3. Adding some simple metadata to the README
+4. Send a pull request, adding the demo to the list
 
 Using a github repository
 -------------------------
