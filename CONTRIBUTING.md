@@ -31,14 +31,16 @@ You can optionally add:
 * Technologies - A comma separated list of technologies the demo shows off, aids searches and related items links
 * Target Product - The product the demo targets, causes the demo to show up in a particular product's developer materials
 
-Having set up your repository, you need to send a pull request against <https://github.com/jboss-developer/jboss-developer-demos>, adding the URL to the repository to `demos.yaml`. Once your pull request has been merged, the next time the site is built, your demo will be included. We normally build the site at least once every day.
+Having set up your repository, you need to send a pull request against <https://github.com/jboss-developer/jboss-developer-demos>, adding the URL to the repository to `demos.yaml`. Travis CI will run a validator that will check whether your changes are valid (contain sufficient metadata, and that the URLs you specify work). Once your pull request has been merged, the next time the site is built, your demo will be included. We normally build the site at least once every day.
 
 Note that if you don't have a release available, we will use the HEAD of master as the download.
 
 Specifying the metadata manually
 --------------------------------
 
-Instead of specifying the metadata inside the `README.md` you can specify it in a standalone YAML file, and point `demos.yaml` to that YAML file. An example standalone YAML file can be found at <https://github.com/jboss-developer/jboss-developer-demos/blob/master/demo-template.yaml>. Most of the fields you can define are specified there, and the comment for the field defines whether it is required or not. 
+Instead of specifying the metadata inside the `README.md` you can specify it in a standalone YAML file, and point `demos.yaml` to that YAML file. This approach is especially useful if you do not follow the demo-per-repository approach, and have multiple demos per repository.
+
+An example standalone YAML file can be found at <https://github.com/jboss-developer/jboss-developer-demos/blob/master/demo-template.yaml>. Most of the fields you can define are specified there, and the comment for the field defines whether it is required or not. Note that you can still put metadata in the README.md, and override it as needed here.
 
 If you need more control over the download, you can use the fields `download`, `browse` and `published` to specify the zip download URL, the URL to browse the SCM, and the publish date.
 
