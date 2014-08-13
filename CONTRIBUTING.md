@@ -15,7 +15,7 @@ If you are using a github repository, we can pull quite a bit of the metadata fr
 
 By default we will:
 
-* point people at your [https://help.github.com/articles/creating-releases](latest release on github) for download and browse links
+* point people at your [latest release on github](https://help.github.com/articles/creating-releases) for download and browse links
 * set the published date as the date of your last release
 * display the README.md as the homepage for your demo
 
