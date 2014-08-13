@@ -31,7 +31,7 @@ You can optionally add:
 * Technologies - A comma separated list of technologies the demo shows off, aids searches and related items links
 * Target Product - The product the demo targets, causes the demo to show up in a particular product's developer materials
 
-Having set up your repository, you need to send a pull request against <https://github.com/jboss-developer/jboss-developer-demos>, adding the URL to the repository to `demos.yaml`. Travis CI will run a validator that will check whether your changes are valid (contain sufficient metadata, and that the URLs you specify work). Once your pull request has been merged, the next time the site is built, your demo will be included. We normally build the site at least once every day.
+Having set up your repository, you need to send a pull request against <https://github.com/jboss-developer/jboss-developer-demos>, adding the URL to the repository to <https://github.com/jboss-developer/jboss-developer-demos/blob/master/demos.yaml>. Travis CI will run a validator that will check whether your changes are valid (contain sufficient metadata, and that the URLs you specify work). Once your pull request has been merged, the next time the site is built, your demo will be included. We normally build the site at least once every day.
 
 Note that if you don't have a release available, we will use the HEAD of master as the download.
 
