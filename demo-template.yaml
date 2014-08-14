@@ -3,7 +3,7 @@ technologies: # Any technologies the demo shows off, optional
   - Java EE
   - Camel
   - Drools
-summary: This demo shows you how to _simply_ use Java EE, Camel and Drools to turn ponies and rainbows in to unicorns. # A short (1 paragraph) summary of your demo. You can use markdown here, required
+summary: This demo shows you how to simply use Java EE, Camel and Drools to turn ponies and rainbows in to unicorns. # A short (1 paragraph) plain text summary of your demo
 github_repo_url: http://github.com/pmuir/unicorns # The URL of the project on github, required
 release: https://github.com/pmuir/unicorns/releases/tag/1.0.0 # The URL to the release, defaults to the latest release on github (if github_repo_url specified). Used to locate download, publish date and browse URL
 content: https://raw.githubusercontent.com/pmuir/unicorns/master/Unicorns.md # The URL to the raw markdown file to render as the demo page, defaults to the README.md in the root of the project (if github_repo_url specified), required
