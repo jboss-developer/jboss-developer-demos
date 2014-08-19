@@ -1,0 +1,10 @@
+github_repo_url: https://github.com/FuseByExample/kie-remote-example
+technologies: 
+  - jBPM
+  - Fabric8
+  - ActiveMQ
+  - Camel
+  - REST
+level: Intermediate
+product: fuse
+author: Josh Reagan

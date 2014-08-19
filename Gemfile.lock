@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/pmuir/aweplug.git
-  revision: fa4a25600125acf6f10992afa545ce07bc2121e7
+  revision: 28fe296d13b0743e26e35ed9a6c65791306c58d7
   branch: demos
   specs:
     aweplug (1.0.0.a24)
