@@ -1,0 +1,10 @@
+github_repo_url: https://github.com/FuseByExample/external-mq-fabric-client
+technologies: 
+  - JMS
+  - Fabric8
+  - ActiveMQ
+  - Camel
+level: Intermediate # The level of user the demo is targeting, defaults to beginner
+product: fuse
+author: Scott Cranton
+
