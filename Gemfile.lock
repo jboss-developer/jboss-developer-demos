@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/pmuir/aweplug.git
-  revision: 7eb54361a1deec5b1344238936392eb9c6f604ca
+  revision: fa4a25600125acf6f10992afa545ce07bc2121e7
   branch: demos
   specs:
     aweplug (1.0.0.a24)
@@ -89,10 +89,10 @@ GEM
     nokogiri (1.5.11)
     oauth (0.3.6)
       ruby-hmac (>= 0.3.1)
-    octokit (3.3.0)
+    octokit (3.3.1)
       sawyer (~> 0.5.3)
-    parallel (1.2.2)
-    pry (0.10.0)
+    parallel (1.2.4)
+    pry (0.10.1)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
@@ -106,7 +106,7 @@ GEM
     ruby-hmac (0.4.0)
     ruby-s3cmd (0.1.5)
     sass (3.2.19)
-    sawyer (0.5.4)
+    sawyer (0.5.5)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
     slop (3.6.0)
