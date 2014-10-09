@@ -1,7 +1,7 @@
 require 'aweplug/extensions/kramdown_demo'
 
 task :default do
-
+  mkdir_p '_tmp'
   demo = Aweplug::Extensions::Kramdown::Demo.new({
     :push_to_searchisko => false, 
     :url => 'demos.yaml',
