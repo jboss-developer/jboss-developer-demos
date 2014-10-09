@@ -7,7 +7,7 @@ task :default do
     :url => 'demos.yaml',
     :layout => 'get-started-item',
     :output_dir => '_site/demos'})
-  site = OpenStruct.new({:dir => '_site', :pages => []});
+  site = OpenStruct.new({:dir => '_site', :pages => [],:profile => 'development'});
   demo.execute(site)
   puts "all ok!"
 end
