@@ -1,0 +1,10 @@
+title: Java EE 7 Samples: EL 3.0
+technologies:
+  - Java EE 7
+  - EL 3.0
+summary: The JSR 341 is an update to Expression Language 2.2, currently part of JSR 245, JavaServer Page (JSP) 2.2.
+github_repo_url: https://github.com/javaee-samples/javaee7-samples
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/el/README.md
+author: WildFly Community
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+

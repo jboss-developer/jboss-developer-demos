@@ -1,0 +1,10 @@
+title: Java EE 7 Samples: CDI 1.1
+technologies:
+  - Java EE 7
+  - CDI 1.1
+summary: The JSR 346 updates and clarifications to CDI 1.0 along much requested features.
+github_repo_url: https://github.com/javaee-samples/javaee7-samples
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/cdi/README.md
+author: WildFly Community
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+

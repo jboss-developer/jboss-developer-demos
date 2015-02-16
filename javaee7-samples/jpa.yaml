@@ -1,0 +1,10 @@
+title: Java EE 7 Samples: JPA 2.1
+technologies:
+  - Java EE 7
+  - JPA 2.1
+summary: The JSR 338 specifies the Java API for the management of persistence and object/relational mapping in Java EE and Java SE environments.
+github_repo_url: https://github.com/javaee-samples/javaee7-samples
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/jpa/README.md
+author: WildFly Community
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+

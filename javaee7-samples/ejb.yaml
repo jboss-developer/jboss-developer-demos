@@ -1,0 +1,10 @@
+title: Java EE 7 Samples: EJB 3.2
+technologies:
+  - Java EE 7
+  - EJB 3.2
+summary: The JSR 345 is an architecture for the development and deployment of component-based business applications.
+github_repo_url: https://github.com/javaee-samples/javaee7-samples
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/ejb/README.md
+author: WildFly Community
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+
