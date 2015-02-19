@@ -1,0 +1,10 @@
+title: Java EE 7 Samples: JSF 2.2
+technologies:
+  - Java EE 7
+  - JSF 2.2
+summary: The JSR 344 is an update to the 2.1 version of the JavaServer Faces specification. This is the first major revision of the JavaServer Specification since JSR 314.
+github_repo_url: https://github.com/javaee-samples/javaee7-samples
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/jsf/README.md
+author: WildFly Community
+experimental: true # If the demo is supported by Red Hat or not, defaults to false
+
