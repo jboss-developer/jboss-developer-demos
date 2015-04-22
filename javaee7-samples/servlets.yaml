@@ -4,7 +4,7 @@ technologies:
   - Servlet 3.1
 summary: The JSR 340 specifies the next version of Java Servlets - Java Servlets 3.1.
 github_repo_url: https://github.com/javaee-samples/javaee7-samples
-content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/servlets/README.md
+content: https://raw.githubusercontent.com/javaee-samples/javaee7-samples/master/servlet/README.md
 author: WildFly Community
 experimental: true # If the demo is supported by Red Hat or not, defaults to false
 
