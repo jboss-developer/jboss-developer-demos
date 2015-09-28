@@ -18,10 +18,12 @@
 - https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/javaee7-samples/servlets.yaml
 - https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/javaee7-samples/validation.yaml
 - https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/javaee7-samples/websocket.yaml
-- https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/fusebyexample/external-mq-fabric-client.yaml 
+- https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/fusebyexample/external-mq-fabric-client.yaml
 - https://raw.githubusercontent.com/jboss-developer/jboss-developer-demos/master/fusebyexample/kie-remote-example.yaml
 - https://raw.githubusercontent.com/weimeilin79/homeloan-part1/master/homeloan1.yaml
 - https://raw.githubusercontent.com/weimeilin79/homeloan-part2/master/homeloan2.yaml
 - https://raw.githubusercontent.com/weimeilin79/homeloan-part3/master/homeloan3.yaml
 - https://raw.githubusercontent.com/kpeeples/jboss-fuse-websockets-demo/master/fusewebsocket.yaml
 - https://raw.githubusercontent.com/kpeeples/jboss-a-mq-websockets-demo/master/fuseamqwebsockets.yaml
+- https://raw.githubusercontent.com/Dantheman720/continuous-delivery-demo/DemoYaml/demo.yaml
+- https://raw.githubusercontent.com/Dantheman720/site/RHDdemo/demo.yaml
